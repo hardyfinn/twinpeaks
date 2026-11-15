@@ -1,0 +1,23 @@
+{
+  "slug": "TwinPeaks",
+  "name": "TwinPeaks",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Haer",
+  "author": "Haer",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/hardyfinn/twinpeaks",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "TwinPeaks",
+      "name": "TwinPeaks",
+      "description": "Twin-peak resonant filter after Rob Hordijk: two resonant low-passes subtracted, giving a band with a resonant peak at each edge. FREQ, SPREAD, RES, DRIVE, BALANCE, audio-rate FM on both or just the high peak, self-oscillates as two sines. Polyphonic",
+      "tags": ["Filter", "Distortion", "Polyphonic", "Visual"]
+    }
+  ]
+}
