@@ -16,4 +16,8 @@ Build: `make dist RACK_DIR=path/to/Rack-SDK`. GitHub Actions builds the Mac
 (Apple Silicon) plugin on every push. Engine checks without Rack: `make test`.
 Panel: `python3 res/make_panel.py`; preview: `python3 tools/preview.py out.png`.
 
-Original code (GPL-3.0-or-later); the twin-peak idea is credited to Rob Hordijk.
+Original code (MIT licence); the twin-peak idea is credited to Rob Hordijk.
+
+## Licence
+
+MIT (see `LICENSE.txt`): you're free to use, change, port (VST/CLAP, other platforms, hardware) and share this code, as long as the copyright notice and licence text come along. Fonts on the panel (Inter, Climate Crisis) are under the SIL Open Font Licence.
